@@ -1,7 +1,3 @@
-Great, Jen! Since you've finished the project and are ready to update your `README.md` to reflect your completed Vehicle Drive project, here’s a clean, professional, and complete version you can use as a final README:
-
----
-
 ## 🚗 Vehicle Drive CLI App
 
 A TypeScript-powered command-line application that allows users to create and interact with different types of vehicles — including **cars**, **trucks**, and **motorbikes**. The app uses object-oriented programming principles and prompts the user to create or select a vehicle, then perform various actions depending on the type.
@@ -9,8 +5,8 @@ A TypeScript-powered command-line application that allows users to create and in
 ---
 
 ### 🎥 Walkthrough Video  
-👉 [Click here to watch the walkthrough video](#)  
-(*Replace `#` with your actual video URL*)
+👉  https://github.com/user-attachments/assets/0a17246f-ba2f-430e-83e5-8c4c60fe3302
+
 
 ---
 
